@@ -18,3 +18,5 @@ D:\react\node_crash_course>git commit -m 'first commit'
 D:\react\node_crash_course>git commit .
 D:\react\node_crash_course>git push -u origin master
 
+D:\react\node_crash_course>npm install uuid
+
