@@ -1,3 +1,8 @@
+https://nodejs.org/dist/latest-v11.x/docs/api/
+https://nodejs.org/dist/latest-v11.x/docs/api/path.html
+https://nodejs.org/dist/latest-v11.x/docs/api/fs.html
+https://nodejs.org/dist/latest-v11.x/docs/api/fs.html#fs_fs_mkdir_path_options_callback
+
 D:\react\node_crash_course>npm init
 ...
 package name: (node_crash_course)
@@ -24,9 +29,6 @@ D:\react\node_crash_course>npm install -D nodemon
 D:\react\node_crash_course>node index.js
 D:\react\node_crash_course>node index
 
-
-https://nodejs.org/dist/latest-v11.x/docs/api/
-https://nodejs.org/dist/latest-v11.x/docs/api/path.html
-
 D:\react\node_crash_course\reference>node path_demo.js
+D:\react\node_crash_course\reference>node fs_demo.js
 
