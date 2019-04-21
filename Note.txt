@@ -20,3 +20,6 @@ D:\react\node_crash_course>git push -u origin master
 
 D:\react\node_crash_course>npm install uuid
 D:\react\node_crash_course>npm install -D nodemon
+
+D:\react\node_crash_course>node index.js
+D:\react\node_crash_course>node index
