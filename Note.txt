@@ -10,4 +10,11 @@ keywords:
 author: Annie Huang
 license: (ISC)
 
+D:\react\node_crash_course>git add .
+D:\react\node_crash_course>git reset
+D:\react\node_crash_course>git add .
+D:\react\node_crash_course>git reset .idea/vcs.xml
+D:\react\node_crash_course>git commit -m 'first commit'
+D:\react\node_crash_course>git commit .
+D:\react\node_crash_course>git push -u origin master
 
