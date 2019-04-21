@@ -1,0 +1,13 @@
+D:\react\node_crash_course>npm init
+...
+package name: (node_crash_course)
+version: (1.0.0)
+description: Node crash course
+entry point: (index.js)
+test command:
+git repository:
+keywords:
+author: Annie Huang
+license: (ISC)
+
+
