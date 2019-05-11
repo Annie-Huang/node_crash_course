@@ -45,3 +45,12 @@ http://localhost:5000/
 D:\react\node_crash_course>node index.js
 http://localhost:5000/		<< /
 http://localhost:5000/about	<< /about
+
+
+D:\react\node_crash_course>npm run dev
+
+
+
+
+
+
