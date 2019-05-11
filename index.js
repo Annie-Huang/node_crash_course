@@ -1,14 +1,24 @@
-// CommonJS syntax.
-const Person = require('./person');
+// // CommonJS syntax.
+// const Person = require('./person');
+//
+// // AMD syntax:
+// // require(['./printmodule'], function(printModule){
+// //    printModule.printMessage('Hello Amd');
+// // });
+//
+// // Node has been use this yet, if you want to use the following ES6 syntax you will need to use babel
+// // import Person from './person';
+//
+// const person1 = new Person('John Doe', 30);
+//
+// person1.greeting();
 
-// AMD syntax:
-// require(['./printmodule'], function(printModule){
-//    printModule.printMessage('Hello Amd');
-// });
+const Logger = require('./logger');
 
-// Node has been use this yet, if you want to use the following ES6 syntax you will need to use babel
-// import Person from './person';
+const logger = new Logger();
 
-const person1 = new Person('John Doe', 30);
+logger.on('message', (data) => console.log('Called Listener', data));
 
-person1.greeting();
+logger.log('Hello World');
+logger.log('Hi');
+logger.log('Hello');

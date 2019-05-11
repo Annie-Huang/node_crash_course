@@ -37,5 +37,6 @@ D:\react\node_crash_course\reference>node path_demo.js
 D:\react\node_crash_course\reference>node fs_demo.js
 D:\react\node_crash_course\reference>node os_demo.js
 D:\react\node_crash_course\reference>node url_demo.js
-
+D:\react\node_crash_course>node logger.js
+D:\react\node_crash_course>node index
 
